@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailwind/static/css/main.a1c29f96.css",
+    "main.js": "/tailwind/static/js/main.216afa63.js",
+    "index.html": "/tailwind/index.html",
+    "main.a1c29f96.css.map": "/tailwind/static/css/main.a1c29f96.css.map",
+    "main.216afa63.js.map": "/tailwind/static/js/main.216afa63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1c29f96.css",
+    "static/js/main.216afa63.js"
+  ]
+}
